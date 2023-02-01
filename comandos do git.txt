@@ -1,0 +1,6 @@
+git init - Iniciar o repositorio do GIT.
+git add . - Adiciona todos os os arquivos ao GIT.
+git commit - Envia as alterações para o GIT.
+git checkout -m (NOMEDABRANCH) - renomeia branch.
+git checkout - o ato de alternar entre diferentes versões de uma entidade de destino.
+git merge - Uni as alterações de mais uma branch.

@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  
+}
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+p{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+}
+
+#mensagem{
+  text-align: center;
+
+}
+#navegacao{
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
